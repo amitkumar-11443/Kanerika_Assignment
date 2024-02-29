@@ -1,6 +1,6 @@
 # Kanerika_Assignment  
 
-## Dataset Preparation and EDA Purpose
+## Dataset Preparation ,EDA , Model Building & Evaluation
 This document outlines the process for handling the dataset and preparing it for modeling. It covers steps for data preparation, exploratory data analysis (EDA), outlier treatment, feature scaling, train-test splitting, Model Training and evaluation, Model Evaluation Metrics, Model Hyperparameter tuning. 
 
 ## Detailed Steps
